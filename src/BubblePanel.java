@@ -27,7 +27,7 @@ public class BubblePanel extends JPanel {
 	private ArrayList<Bubble> bubbleList;
 	private int size = 60;
 	private Timer timer;
-	private final int DELAY = 33; // ms of delay for 30 fps
+	private final int DELAY = 15; // ms of delay for 30 fps
 	private JTable table;
 	private JTextField txtSize;
 	private JTextField txtSpeed;
