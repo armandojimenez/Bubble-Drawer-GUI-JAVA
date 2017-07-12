@@ -75,7 +75,7 @@ public class BubblePanel extends JPanel {
 		txtSpeed = new JTextField();
 		txtSpeed.setFont(new Font("Tahoma", Font.PLAIN, 45));
 		txtSpeed.setHorizontalAlignment(SwingConstants.CENTER);
-		txtSpeed.setText("30");
+		txtSpeed.setText("60");
 		panel.add(txtSpeed);
 		txtSpeed.setColumns(2);
 
